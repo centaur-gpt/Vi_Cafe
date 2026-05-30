@@ -1,0 +1,6 @@
+{
+  "name": "Vi Cafe Website",
+  "description": "A professional modern website for Vi cafe, a cafe-culinary offering Italian and Russian cuisine, breakfasts, and lunches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
